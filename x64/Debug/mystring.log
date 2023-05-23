@@ -1,0 +1,11 @@
+﻿  mystring.cpp
+C:\strr\mystring\mystring\cfunc.h(41,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\strr\mystring\mystring\cfunc.h(52,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\strr\mystring\mystring\cfunc.h(53,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\strr\mystring\mystring\cfunc.h(62,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\strr\mystring\mystring\string.h(66,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\strr\mystring\mystring\string.h(230,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\strr\mystring\mystring\string.h(234,17): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\strr\mystring\mystring\string.h(242,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\strr\mystring\mystring\string.h(253,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  mystring.vcxproj -> C:\strr\mystring\x64\Debug\mystring.exe
